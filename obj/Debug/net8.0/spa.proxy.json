@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\ProgrammierProjekte\\Critical1_ASP\\Critical1ASP\\Critical1ASP.Server\\..\\critical1asp.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
